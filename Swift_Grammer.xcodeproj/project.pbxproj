@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		5A886C762ABD76C900E1CE4A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C752ABD76C900E1CE4A /* main.swift */; };
 		5A886C7D2ABD76EB00E1CE4A /* vendingMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C7C2ABD76EB00E1CE4A /* vendingMachine.swift */; };
+		5A886C7F2ABD79DC00E1CE4A /* whileExercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C7E2ABD79DB00E1CE4A /* whileExercise.swift */; };
+		5A886C812ABD7AC000E1CE4A /* diet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C802ABD7AC000E1CE4A /* diet.swift */; };
+		5A886C832ABD7C4C00E1CE4A /* login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C822ABD7C4C00E1CE4A /* login.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +30,9 @@
 		5A886C722ABD76C900E1CE4A /* Swift_Grammer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift_Grammer; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A886C752ABD76C900E1CE4A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		5A886C7C2ABD76EB00E1CE4A /* vendingMachine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vendingMachine.swift; sourceTree = "<group>"; };
+		5A886C7E2ABD79DB00E1CE4A /* whileExercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = whileExercise.swift; sourceTree = "<group>"; };
+		5A886C802ABD7AC000E1CE4A /* diet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = diet.swift; sourceTree = "<group>"; };
+		5A886C822ABD7C4C00E1CE4A /* login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = login.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +67,9 @@
 			children = (
 				5A886C752ABD76C900E1CE4A /* main.swift */,
 				5A886C7C2ABD76EB00E1CE4A /* vendingMachine.swift */,
+				5A886C7E2ABD79DB00E1CE4A /* whileExercise.swift */,
+				5A886C802ABD7AC000E1CE4A /* diet.swift */,
+				5A886C822ABD7C4C00E1CE4A /* login.swift */,
 			);
 			path = Swift_Grammer;
 			sourceTree = "<group>";
@@ -124,7 +133,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				5A886C762ABD76C900E1CE4A /* main.swift in Sources */,
+				5A886C832ABD7C4C00E1CE4A /* login.swift in Sources */,
 				5A886C7D2ABD76EB00E1CE4A /* vendingMachine.swift in Sources */,
+				5A886C7F2ABD79DC00E1CE4A /* whileExercise.swift in Sources */,
+				5A886C812ABD7AC000E1CE4A /* diet.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
