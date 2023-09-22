@@ -41,7 +41,12 @@ func runLogin() {
             print("로그인 성공")
             break
         } else {
-            print("아이디와 비밀번호가 잘못되었습니다.\n")
+            print("아이디와 비밀번호가 잘못되었습니다.")
+            print("계속 하시겠습니까? (Y/N) ", terminator: "")
+            let inputContinue = readLine()!            
+            if (inputContinue == "N") { break }
         }
     }
+    
+    print("\n종료되었습니다.")
 }
