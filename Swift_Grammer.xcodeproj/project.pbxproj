@@ -12,6 +12,7 @@
 		5A886C7F2ABD79DC00E1CE4A /* whileExercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C7E2ABD79DB00E1CE4A /* whileExercise.swift */; };
 		5A886C812ABD7AC000E1CE4A /* diet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C802ABD7AC000E1CE4A /* diet.swift */; };
 		5A886C832ABD7C4C00E1CE4A /* login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C822ABD7C4C00E1CE4A /* login.swift */; };
+		5A886C852ABD889200E1CE4A /* calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C842ABD889200E1CE4A /* calculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		5A886C7E2ABD79DB00E1CE4A /* whileExercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = whileExercise.swift; sourceTree = "<group>"; };
 		5A886C802ABD7AC000E1CE4A /* diet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = diet.swift; sourceTree = "<group>"; };
 		5A886C822ABD7C4C00E1CE4A /* login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = login.swift; sourceTree = "<group>"; };
+		5A886C842ABD889200E1CE4A /* calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				5A886C7E2ABD79DB00E1CE4A /* whileExercise.swift */,
 				5A886C802ABD7AC000E1CE4A /* diet.swift */,
 				5A886C822ABD7C4C00E1CE4A /* login.swift */,
+				5A886C842ABD889200E1CE4A /* calculator.swift */,
 			);
 			path = Swift_Grammer;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 				5A886C762ABD76C900E1CE4A /* main.swift in Sources */,
 				5A886C832ABD7C4C00E1CE4A /* login.swift in Sources */,
 				5A886C7D2ABD76EB00E1CE4A /* vendingMachine.swift in Sources */,
+				5A886C852ABD889200E1CE4A /* calculator.swift in Sources */,
 				5A886C7F2ABD79DC00E1CE4A /* whileExercise.swift in Sources */,
 				5A886C812ABD7AC000E1CE4A /* diet.swift in Sources */,
 			);
