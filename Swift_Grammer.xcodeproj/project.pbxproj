@@ -27,6 +27,7 @@
 		5A67120D2AC149D200B30300 /* stars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A67120C2AC149D200B30300 /* stars.swift */; };
 		5A67120F2AC1551F00B30300 /* threeSixNineGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A67120E2AC1551F00B30300 /* threeSixNineGame.swift */; };
 		5A71D8442AC3C1B7007386E4 /* tv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A71D8432AC3C1B7007386E4 /* tv.swift */; };
+		5A71D8932AC3F3BF007386E4 /* exerciseArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A71D8922AC3F3BF007386E4 /* exerciseArray.swift */; };
 		5A886C762ABD76C900E1CE4A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C752ABD76C900E1CE4A /* main.swift */; };
 		5A886C7D2ABD76EB00E1CE4A /* vendingMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C7C2ABD76EB00E1CE4A /* vendingMachine.swift */; };
 		5A886C7F2ABD79DC00E1CE4A /* whileExercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C7E2ABD79DB00E1CE4A /* whileExercise.swift */; };
@@ -68,6 +69,7 @@
 		5A67120C2AC149D200B30300 /* stars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stars.swift; sourceTree = "<group>"; };
 		5A67120E2AC1551F00B30300 /* threeSixNineGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = threeSixNineGame.swift; sourceTree = "<group>"; };
 		5A71D8432AC3C1B7007386E4 /* tv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tv.swift; sourceTree = "<group>"; };
+		5A71D8922AC3F3BF007386E4 /* exerciseArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = exerciseArray.swift; sourceTree = "<group>"; };
 		5A886C722ABD76C900E1CE4A /* Swift_Grammer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift_Grammer; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A886C752ABD76C900E1CE4A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		5A886C7C2ABD76EB00E1CE4A /* vendingMachine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vendingMachine.swift; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 				5A2101332AC2CD0C004F5AAF /* person.swift */,
 				5A2101372AC2CF32004F5AAF /* computator.swift */,
 				5A71D8432AC3C1B7007386E4 /* tv.swift */,
+				5A71D8922AC3F3BF007386E4 /* exerciseArray.swift */,
 			);
 			path = Swift_Grammer;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				5A886C7F2ABD79DC00E1CE4A /* whileExercise.swift in Sources */,
 				5A2101222AC27304004F5AAF /* closeTen.swift in Sources */,
 				5A21011C2AC26DFB004F5AAF /* addNumber.swift in Sources */,
+				5A71D8932AC3F3BF007386E4 /* exerciseArray.swift in Sources */,
 				5A886C812ABD7AC000E1CE4A /* diet.swift in Sources */,
 				5A2101282AC278B2004F5AAF /* dividor.swift in Sources */,
 				5A2101342AC2CD0C004F5AAF /* person.swift in Sources */,
