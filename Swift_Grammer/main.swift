@@ -7,5 +7,5 @@
 
 import Foundation
 
-runCalculator()
+runComputator()
 

@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A21011C2AC26DFB004F5AAF /* addNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A21011B2AC26DFB004F5AAF /* addNumber.swift */; };
+		5A2101202AC26F8F004F5AAF /* biggerNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A21011F2AC26F8F004F5AAF /* biggerNumber.swift */; };
+		5A2101222AC27304004F5AAF /* closeTen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A2101212AC27304004F5AAF /* closeTen.swift */; };
+		5A2101242AC2767E004F5AAF /* square.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A2101232AC2767E004F5AAF /* square.swift */; };
+		5A2101262AC277DF004F5AAF /* absoluteValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A2101252AC277DF004F5AAF /* absoluteValue.swift */; };
+		5A2101282AC278B2004F5AAF /* dividor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A2101272AC278B2004F5AAF /* dividor.swift */; };
+		5A21012A2AC27B08004F5AAF /* divisor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A2101292AC27B08004F5AAF /* divisor.swift */; };
+		5A21012C2AC2A442004F5AAF /* perfectNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A21012B2AC2A442004F5AAF /* perfectNumber.swift */; };
+		5A21012E2AC2BBEC004F5AAF /* practice_class.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A21012D2AC2BBEC004F5AAF /* practice_class.swift */; };
+		5A2101302AC2C158004F5AAF /* piggBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A21012F2AC2C158004F5AAF /* piggBank.swift */; };
+		5A2101322AC2CB3C004F5AAF /* student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A2101312AC2CB3C004F5AAF /* student.swift */; };
+		5A2101342AC2CD0C004F5AAF /* person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A2101332AC2CD0C004F5AAF /* person.swift */; };
+		5A2101382AC2CF32004F5AAF /* computator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A2101372AC2CF32004F5AAF /* computator.swift */; };
+		5A6712052AC10E8500B30300 /* randomGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A6712042AC10E8500B30300 /* randomGame.swift */; };
+		5A6712072AC124FC00B30300 /* exercise_for.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A6712062AC124FC00B30300 /* exercise_for.swift */; };
+		5A6712092AC144C800B30300 /* TimesTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A6712082AC144C800B30300 /* TimesTable.swift */; };
+		5A67120B2AC1478600B30300 /* divisors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A67120A2AC1478600B30300 /* divisors.swift */; };
+		5A67120D2AC149D200B30300 /* stars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A67120C2AC149D200B30300 /* stars.swift */; };
+		5A67120F2AC1551F00B30300 /* threeSixNineGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A67120E2AC1551F00B30300 /* threeSixNineGame.swift */; };
+		5A71D8442AC3C1B7007386E4 /* tv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A71D8432AC3C1B7007386E4 /* tv.swift */; };
 		5A886C762ABD76C900E1CE4A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C752ABD76C900E1CE4A /* main.swift */; };
 		5A886C7D2ABD76EB00E1CE4A /* vendingMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C7C2ABD76EB00E1CE4A /* vendingMachine.swift */; };
 		5A886C7F2ABD79DC00E1CE4A /* whileExercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A886C7E2ABD79DB00E1CE4A /* whileExercise.swift */; };
@@ -28,6 +48,26 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5A21011B2AC26DFB004F5AAF /* addNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = addNumber.swift; sourceTree = "<group>"; };
+		5A21011F2AC26F8F004F5AAF /* biggerNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = biggerNumber.swift; sourceTree = "<group>"; };
+		5A2101212AC27304004F5AAF /* closeTen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = closeTen.swift; sourceTree = "<group>"; };
+		5A2101232AC2767E004F5AAF /* square.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = square.swift; sourceTree = "<group>"; };
+		5A2101252AC277DF004F5AAF /* absoluteValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = absoluteValue.swift; sourceTree = "<group>"; };
+		5A2101272AC278B2004F5AAF /* dividor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dividor.swift; sourceTree = "<group>"; };
+		5A2101292AC27B08004F5AAF /* divisor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = divisor.swift; sourceTree = "<group>"; };
+		5A21012B2AC2A442004F5AAF /* perfectNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = perfectNumber.swift; sourceTree = "<group>"; };
+		5A21012D2AC2BBEC004F5AAF /* practice_class.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = practice_class.swift; sourceTree = "<group>"; };
+		5A21012F2AC2C158004F5AAF /* piggBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = piggBank.swift; sourceTree = "<group>"; };
+		5A2101312AC2CB3C004F5AAF /* student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = student.swift; sourceTree = "<group>"; };
+		5A2101332AC2CD0C004F5AAF /* person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = person.swift; sourceTree = "<group>"; };
+		5A2101372AC2CF32004F5AAF /* computator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = computator.swift; sourceTree = "<group>"; };
+		5A6712042AC10E8500B30300 /* randomGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = randomGame.swift; sourceTree = "<group>"; };
+		5A6712062AC124FC00B30300 /* exercise_for.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = exercise_for.swift; sourceTree = "<group>"; };
+		5A6712082AC144C800B30300 /* TimesTable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimesTable.swift; sourceTree = "<group>"; };
+		5A67120A2AC1478600B30300 /* divisors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = divisors.swift; sourceTree = "<group>"; };
+		5A67120C2AC149D200B30300 /* stars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stars.swift; sourceTree = "<group>"; };
+		5A67120E2AC1551F00B30300 /* threeSixNineGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = threeSixNineGame.swift; sourceTree = "<group>"; };
+		5A71D8432AC3C1B7007386E4 /* tv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tv.swift; sourceTree = "<group>"; };
 		5A886C722ABD76C900E1CE4A /* Swift_Grammer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift_Grammer; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A886C752ABD76C900E1CE4A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		5A886C7C2ABD76EB00E1CE4A /* vendingMachine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vendingMachine.swift; sourceTree = "<group>"; };
@@ -73,6 +113,26 @@
 				5A886C802ABD7AC000E1CE4A /* diet.swift */,
 				5A886C822ABD7C4C00E1CE4A /* login.swift */,
 				5A886C842ABD889200E1CE4A /* calculator.swift */,
+				5A6712042AC10E8500B30300 /* randomGame.swift */,
+				5A6712062AC124FC00B30300 /* exercise_for.swift */,
+				5A6712082AC144C800B30300 /* TimesTable.swift */,
+				5A67120A2AC1478600B30300 /* divisors.swift */,
+				5A67120C2AC149D200B30300 /* stars.swift */,
+				5A67120E2AC1551F00B30300 /* threeSixNineGame.swift */,
+				5A21011B2AC26DFB004F5AAF /* addNumber.swift */,
+				5A21011F2AC26F8F004F5AAF /* biggerNumber.swift */,
+				5A2101212AC27304004F5AAF /* closeTen.swift */,
+				5A2101232AC2767E004F5AAF /* square.swift */,
+				5A2101252AC277DF004F5AAF /* absoluteValue.swift */,
+				5A2101272AC278B2004F5AAF /* dividor.swift */,
+				5A2101292AC27B08004F5AAF /* divisor.swift */,
+				5A21012B2AC2A442004F5AAF /* perfectNumber.swift */,
+				5A21012D2AC2BBEC004F5AAF /* practice_class.swift */,
+				5A21012F2AC2C158004F5AAF /* piggBank.swift */,
+				5A2101312AC2CB3C004F5AAF /* student.swift */,
+				5A2101332AC2CD0C004F5AAF /* person.swift */,
+				5A2101372AC2CF32004F5AAF /* computator.swift */,
+				5A71D8432AC3C1B7007386E4 /* tv.swift */,
 			);
 			path = Swift_Grammer;
 			sourceTree = "<group>";
@@ -135,12 +195,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A67120B2AC1478600B30300 /* divisors.swift in Sources */,
 				5A886C762ABD76C900E1CE4A /* main.swift in Sources */,
+				5A2101382AC2CF32004F5AAF /* computator.swift in Sources */,
+				5A2101302AC2C158004F5AAF /* piggBank.swift in Sources */,
+				5A21012E2AC2BBEC004F5AAF /* practice_class.swift in Sources */,
+				5A21012A2AC27B08004F5AAF /* divisor.swift in Sources */,
 				5A886C832ABD7C4C00E1CE4A /* login.swift in Sources */,
 				5A886C7D2ABD76EB00E1CE4A /* vendingMachine.swift in Sources */,
+				5A6712072AC124FC00B30300 /* exercise_for.swift in Sources */,
+				5A67120D2AC149D200B30300 /* stars.swift in Sources */,
+				5A6712052AC10E8500B30300 /* randomGame.swift in Sources */,
+				5A21012C2AC2A442004F5AAF /* perfectNumber.swift in Sources */,
+				5A2101262AC277DF004F5AAF /* absoluteValue.swift in Sources */,
+				5A6712092AC144C800B30300 /* TimesTable.swift in Sources */,
+				5A2101242AC2767E004F5AAF /* square.swift in Sources */,
+				5A2101202AC26F8F004F5AAF /* biggerNumber.swift in Sources */,
 				5A886C852ABD889200E1CE4A /* calculator.swift in Sources */,
+				5A71D8442AC3C1B7007386E4 /* tv.swift in Sources */,
+				5A67120F2AC1551F00B30300 /* threeSixNineGame.swift in Sources */,
 				5A886C7F2ABD79DC00E1CE4A /* whileExercise.swift in Sources */,
+				5A2101222AC27304004F5AAF /* closeTen.swift in Sources */,
+				5A21011C2AC26DFB004F5AAF /* addNumber.swift in Sources */,
 				5A886C812ABD7AC000E1CE4A /* diet.swift in Sources */,
+				5A2101282AC278B2004F5AAF /* dividor.swift in Sources */,
+				5A2101342AC2CD0C004F5AAF /* person.swift in Sources */,
+				5A2101322AC2CB3C004F5AAF /* student.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
