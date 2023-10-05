@@ -7,5 +7,5 @@
 
 import Foundation
 
-print(runSortEx1())
+print(runParty())
 
