@@ -8,7 +8,7 @@
 import Foundation
 
 func runSortBubble() {
-    let numbers = [1, 3, 4, 19, 2, 56, 78, 33, 21, 50, 99, 5]
+    let numbers = [2, 19, 55, 2, 0, 33, 182, 44, 1]
     let result = sort(numbers)
     print(result)
 }
@@ -16,19 +16,18 @@ func runSortBubble() {
 func sort(_ arr: [Int]) -> [Int] {
     var numbers = arr
     let n = numbers.count - 1
+    var isChanged = false
     
     for end in (0..<n).reversed() {
-        numbers = sort(numbers, end)
-    }
-    return numbers
-}
-
-func sort(_ arr: [Int], _ end: Int) -> [Int] {
-    var numbers = arr
-    for i in 0...end {
-        if numbers[i] > numbers[i+1] {
-            (numbers[i], numbers[i+1]) = (numbers[i+1], numbers[i])
-        }
+        isChanged = false
+        for i in 0...end {
+            if numbers[i] > numbers[i+1] {
+                (numbers[i], numbers[i+1]) = (numbers[i+1], numbers[i])
+                isChanged = true
+            }
+        }        
+        print(numbers)
+        if !isChanged { break }
     }
     return numbers
 }
