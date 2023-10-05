@@ -8,7 +8,7 @@
 import Foundation
 
 func runStackEx3() {
-    let infix = "(2 + 3) * 4"
+    let infix = "2 + 3 / 3 * (4 - 1) + 8"
     let result = change(infix)
     print(result)
 }
@@ -26,9 +26,9 @@ func change(_ infix: String) -> String {
             stack.append(s)
         } else if s == ")" {
             while true {
-                let tmp = stack.popLast()!
-                if tmp == "(" { break }
-                res += tmp
+                let ele = stack.removeLast()
+                if ele == "(" { break }
+                res += ele
             }
         } else if op.keys.contains(s) {
             if !stack.isEmpty && stack.last != "(" && op[s]! <= op[stack.last!]! {

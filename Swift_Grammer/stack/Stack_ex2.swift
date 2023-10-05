@@ -8,7 +8,7 @@
 import Foundation
 
 func runStackEx2() -> Int {
-    let input = "81 3 - 4 /"
+    let input = "2 3 3 / 4 1 - * 8 + +" // 233/41-*8++
     let components = split(input)
     let result = calculate(components)
     return result
@@ -22,15 +22,17 @@ func calculate(_ components: [String]) -> Int {
     var stack = [Int]()
     for component in components {
         if ["+", "-", "*", "/"].contains(component) {
-            stack.append(calulate(component, stack.removeFirst(), stack.removeLast()))
+            stack.append(calulate(component, stack.removeLast(), stack.removeLast()))
         } else {
             stack.append(Int(component)!)
         }
+        print(stack)
     }
+    
     return stack.popLast()!
 }
 
-func calulate(_ sign: String, _ num1:Int, _ num2:Int) -> Int {
+func calulate(_ sign: String, _ num2:Int, _ num1:Int) -> Int {
     switch sign {
     case "+":
         return num1 + num2
