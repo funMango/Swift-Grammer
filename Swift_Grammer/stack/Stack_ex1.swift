@@ -3,7 +3,7 @@
 //  Swift_Grammer
 //
 //  Created by 이민호 on 10/4/23.
-//
+//  각 괄호의 짝이 맞는지 확인하는 알고리즘
 
 import Foundation
 
