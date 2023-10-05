@@ -7,5 +7,5 @@
 
 import Foundation
 
-print(runSortBubble())
+print(runSortEx1())
 
